@@ -1,6 +1,6 @@
 ---
 title: Echo Labs
-layout: page
+layout: default
 ---
 
 Here is my page.
