@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #bb0000;
+  color: #cc0000;
 }
 
 a:hover {
-  color: #bb0000;
+  color: #cc0000;
 }
 
 .text-primary {
-  color: #bb0000 !important;
+  color: #cc0000 !important;
 }
 
 h1,
@@ -61,12 +61,12 @@ h6 {
 }
 
 ::-moz-selection {
-  background: #bb0000;
+  background: #cc0000;
   text-shadow: none;
 }
 
 ::selection {
-  background: #bb0000;
+  background: #cc0000;
   text-shadow: none;
 }
 
@@ -93,19 +93,19 @@ img::-moz-selection {
 }
 
 .btn-primary {
-  background-color: #bb0000;
-  border-color: #bb0000;
+  background-color: #cc0000;
+  border-color: #cc0000;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #bb0000 !important;
-  border-color: #bb0000 !important;
+  background-color: #cc0000 !important;
+  border-color: #cc0000 !important;
   color: white;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(170, 0, 0, 0.5) !important;
-  box-shadow: 0 0 0 0.2rem rgba(170, 0, 0, 0.5) !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 0, 0, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(240, 0, 0, 0.5) !important;
 }
 
 #mainNav {
@@ -119,17 +119,17 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #bb0000;
+  background-color: #cc0000;
   font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand {
-  color: #bb0000;
+  color: #cc0000;
   font-family: Helvetica, Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #bb0000;
+  color: #cc0000;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -142,7 +142,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #bb0000;
+  color: #cc0000;
 }
 
 @media (min-width: 992px) {
@@ -250,7 +250,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(170, 0, 0, 0.9);
+  background: rgba(240, 0, 0, 0.9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -448,7 +448,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #bb0000;
+  background-color: #cc0000;
 }
 
 .timeline > li .timeline-image h4 {
@@ -619,7 +619,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #bb0000;
+  border-color: #cc0000;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -687,5 +687,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #bb0000;
+  background-color: #cc0000;
 }
