@@ -283,7 +283,7 @@
     </linearGradient>
   </defs>
   <rect
-     style="fill:#c8b7b7;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:26.39999962;stroke-opacity:0.94444442"
+     style="fill:#444444;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:26.39999962;stroke-opacity:0.94444442"
      id="rect853"
      width="200"
      height="200"
@@ -292,21 +292,21 @@
   <g
      id="g3668"
      transform="matrix(0.05533695,0,0,0.05533695,41.269562,31.293861)"
-     style="opacity:1;fill:#ffffff;stroke:#c8b7b7;stroke-width:36.14221573;stroke-miterlimit:4;stroke-dasharray:none">
+     style="opacity:1;fill:#ffffff;stroke:#444444;stroke-width:36.14221573;stroke-miterlimit:4;stroke-dasharray:none">
     <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#c8b7b7;stroke-width:36.14221573;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#444444;stroke-width:36.14221573;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 1143.3083,1084.3217 158.69119,1926.0618 1060.5107,124.10214 Z"
        id="path2828"
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#c8b7b7;stroke-width:36.14221573;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#444444;stroke-width:36.14221573;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 1188.9362,1609.9939 1060.9788,123.94021 1963.9529,1926.2261 Z"
        id="path2828-4"
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#c8b7b7;stroke-width:36.14221573;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#444444;stroke-width:36.14221573;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 743.40929,1423.8349 1964.8794,1926.0085 158.92799,1925.81 Z"
        id="path2828-1"
        sodipodi:nodetypes="cccc"
