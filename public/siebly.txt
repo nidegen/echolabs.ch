@@ -1,0 +1,61 @@
+
+Siebly Privacy Policy
+
+Effective Date: June 17, 2024
+
+Echo Labs AG ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information in connection with the Siebly application (the "App").
+
+What Information Does Siebly Collect?
+
+Siebly is a photo picker utility and does not collect or store any personal information from your device. This includes, but is not limited to:
+
+Photos or videos
+Location data
+Contacts
+Device identifiers
+Usage data
+How Does Siebly Use Information?
+
+Siebly does not use any information collected from your device. The App functions solely to allow you to select photos and videos from your device's storage for your own use.
+
+Does Siebly Share Information with Third Parties?
+
+Siebly does not share any information with third parties.
+
+Security
+
+We take reasonable measures to protect against unauthorized access to or disclosure of information through Siebly. However, no method of transmission over the internet, or method of electronic storage, is completely secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+
+Your Choices
+
+Because Siebly does not collect any information, there are no specific options to control your information. You can uninstall the App at any time if you no longer wish to use it.
+
+Changes to this Privacy Policy
+
+ We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the App. You are advised to review this Privacy Policy periodically for any changes.
+
+ Contact Us
+
+ If you have any questions about this Privacy Policy, please contact us at:
+
+Echo Labs AG
+
+info@echolabs.ch
+
+[For users in the European Economic Area (EEA) only]
+
+Data Controller
+
+Echo Labs AG is the data controller for your information collected through Siebly.
+
+Your Rights
+
+If you are located in the EEA, you have certain rights with respect to your personal information, including the right to request access to, rectification or erasure of your personal information, restriction of processing of your personal information, and the right to data portability. You may also have the right to object to the processing of your personal information. To exercise any of these rights, please contact us at the address above.
+
+Data Retention
+
+Since Siebly does not collect any information, there is no data retention period.
+
+Children's Privacy
+
+Siebly is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and you believe your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information.
