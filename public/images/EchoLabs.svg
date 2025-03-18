@@ -3,9 +3,12 @@
    id="svg4"
    version="1.1"
    height="100"
-   width="200"
-   sodipodi:docname="logo.svg"
+   width="100"
+   sodipodi:docname="EchoLabs.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:export-filename="EchoLabs.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -16,7 +19,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <g
      id="g901"
-     transform="translate(-3.748608,-3.5839767)">
+     transform="matrix(1.2750692,0,0,1.2750692,-15.63019,-18.323277)">
     <path
        sodipodi:end="0.52359878"
        sodipodi:start="5.7595865"
@@ -87,7 +90,7 @@
      inkscape:cx="97.471554"
      inkscape:cy="-40.507659"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0"
@@ -170,20 +173,4 @@
          stdDeviation="4.332607" />
     </filter>
   </defs>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-     x="101.31348"
-     y="44.556973"
-     id="text54"><tspan
-       sodipodi:role="line"
-       id="tspan52"
-       x="101.31348"
-       y="44.556973"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light';fill:#000000">ECHO</tspan><tspan
-       sodipodi:role="line"
-       x="101.31348"
-       y="75.923958"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.3333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light';fill:#000000"
-       id="tspan903">LABS</tspan></text>
 </svg>

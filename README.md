@@ -1,3 +1,3 @@
-# echolabs.io
+# Echo Labs
 
-Repo for echolabs.io
+Repo for [echolabs.ch](https://www.echolabs.ch)
