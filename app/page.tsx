@@ -9,9 +9,7 @@ function Item(props: {
   url: string;
 }) {
   return (
-    <Link
-      href={props.url}
-    >
+    <Link target="_blank" href={props.url}>
       <HStack className="w-xs p-2 rounded-2xl hover:bg-gray-100 dark:hover:bg-gray-900">
         <Image
           src={props.image}
@@ -53,6 +51,13 @@ export default function Page() {
           body="Remote photo request with verified time and location."
           image="/images/Telop.png"
           url="https://www.telop.org"
+        />
+
+        <Item
+          title="Stroke Clock"
+          body="A stroke patient treatment tracking app for hospitals. Developed for the Insel hospital in Bern. "
+          image="/images/StrokeClock.png"
+          url="https://www.strokeclock.ch"
         />
 
         <Item
